@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-02-01-synlogic
+excerpt: 'We introduce SynLogic, a method for synthesizing verifiable reasoning data at scale to improve logical reasoning capabilities of language models.'
+date: 2025-02-01
+venue: 'arXiv'
+slidesurl: ''
+paperurl: 'https://arxiv.org/abs/2502.08268'
+bibtexurl: ''
+citation: 'Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. (2025). &quot;SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.&quot; <i>arXiv</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We present SynLogic, a framework for generating large-scale, verifiable reasoning data that can be used to train language models for logical reasoning tasks. The synthetic data covers a wide range of logical constructs and is accompanied by formal verification steps to ensure correctness. Experiments show that models trained on SynLogic exhibit improved logical reasoning performance across multiple benchmarks.
